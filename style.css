@@ -289,8 +289,8 @@ ul a{
         justify-content: center;
     }
     .shop-section > div {
-        flex: 0 0 100%; /* Make items stack vertically */
-        text-align: center; /* Center-align content */
+        flex: 0 0 100%; 
+        text-align: center; 
     }
 }
 
